@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: mlakshmikanth@gmail.com
     phone: +91 7702894400
-    website: blog.webjeda.com #do not add http://
+    website: #do not add http://
     linkedin: lakshmikanth-m-61a0538b/
     github: 
     gitlab:
@@ -39,26 +39,25 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      ●	Almost 10 years of experience in development, design, integration, maintenance, implementation, production support, web,
-       and distributed N-tier tier applications using Java, J2EE related technologies. 
-       Roles undertaken as: Lead Developer, Designer, Programmer analyst
-      ●	Proficient with various software development methodologies including prototyping and Agile (SCRUM) methodologies.
-      ●	Extensive experience in application development using Core Java, J2EE, Servlets, JSP, Custom tags, JSTL, EJB, Web Services, Spring, Struts, JDBC, Junit, Log4J, JavaScript, HTML, XML, AJAX, UML.
-      ●	Experience with Application servers and Web servers such as IBM Web Sphere 6.0/8.5, Oracle 10g Application Server and Apache Tomcat 4.0/5.0/5.5.
-      ●	Good exposure on J2EE design patterns such as Model View Controller (MVC), Service Locator, Value Object (Data Transfer Object), Data Access Object (DAO), Session Façade, Singleton pattern, Business Delegate, Factory method pattern, Adapter pattern, Command pattern. 
-      ● Expertise with IDE’s such as IBM RSA (Rational Software Architect) Eclipse 2.1/3.x, My Eclipse5.x/6.x, JDeveloper, Toad for DB, Springsource Tool Suite (STS).
-      ●	Experience working with the source control and versioning tools like VSS, Rational Clear Case, SVN (subversion).
-      ●	Extensive experience in defect management tools like IBM Rational Clear Quest & IBM Lotus Notes, Trac tool
-      ●	Proficient in RDBMS concepts and experience in working with Oracle8i/9i, DB2 and My SQL and in writing SQL and PL/SQL (Procedures, Functions, Cursors).
-      ●	Provided Guidance to the junior programmers using class diagrams, sequence diagrams.
-      ●	Experience 
-      ●	Experience in developing web services using SOAP and WSDL.
-      ●	Excellent analytical, problem solving, and inter personnel skills. Motivated to work on challenging projects, consistent team player with communication skills.
-      ●	Ability to Adapt to new and challenging environment and handle multiple work areas
-      ●	Experience in initial setup and configuration of applications in all environments.
-      ●	Expertize in Spring IOC, & MVC.
-      ●	Good knowledge in Persistence framework like Hibernate.
-      ●	Coordinating with Different teams as Coordinator.
+      ●	Almost 13 years of experience in development, design, integration, maintenance, implementation, production support, web,
+       and distributed N-tier tier applications using Java, J2EE related technologies.   
+       Roles undertaken as: Lead Developer, Designer, Programmer analyst   
+      ●	Proficient with various software development methodologies including prototyping and Agile (SCRUM) methodologies.  
+      ●	Extensive experience in application development using Core Java, J2EE, Servlets, JSP, Custom tags, JSTL, EJB, Web Services, Spring, Struts, JDBC, Junit, Log4J, JavaScript, HTML, XML, AJAX, UML.   
+      ●	Experience with Application servers and Web servers such as IBM Web Sphere 6.0/8.5, Oracle 10g Application Server and Apache Tomcat 4.0/5.0/5.5.   
+      ●	Good exposure on J2EE design patterns such as Model View Controller (MVC), Service Locator, Value Object (Data Transfer Object), Data Access Object (DAO), Session Façade, Singleton pattern, Business Delegate, Factory method pattern, Adapter pattern, Command pattern.    
+      ● Expertise with IDE’s such as IBM RSA (Rational Software Architect) Eclipse 2.1/3.x, My Eclipse5.x/6.x, JDeveloper, Toad for DB, Springsource Tool Suite (STS).  
+      ●	Experience working with the source control and versioning tools like VSS, Rational Clear Case, SVN (subversion).  
+      ●	Extensive experience in defect management tools like IBM Rational Clear Quest & IBM Lotus Notes, Trac tool  
+      ●	Proficient in RDBMS concepts and experience in working with Oracle8i/9i, DB2 and My SQL and in writing SQL and PL/SQL (Procedures, Functions, Cursors).  
+      ●	Provided Guidance to the junior programmers using class diagrams, sequence diagrams.  
+      ●	Experience in developing web services using SOAP and WSDL.  
+      ●	Excellent analytical, problem solving, and inter personnel skills. Motivated to work on challenging projects, consistent team player with communication skills.  
+      ●	Ability to Adapt to new and challenging environment and handle multiple work areas   
+      ●	Experience in initial setup and configuration of applications in all environments.   
+      ●	Expertize in Spring IOC, & MVC.   
+      ●	Good knowledge in Persistence framework like Hibernate.  
+      ●	Coordinating with Different teams as Coordinator.  
 
 education:
     - degree: Master of Computer Application in Computer Science(MCA)
